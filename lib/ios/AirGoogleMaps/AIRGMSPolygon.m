@@ -1,4 +1,4 @@
-//
+/* //
 //  AIRGMSPolygon.m
 //  AirMaps
 //
@@ -10,3 +10,4 @@
 @implementation AIRGMSPolygon
 
 @end
+*/

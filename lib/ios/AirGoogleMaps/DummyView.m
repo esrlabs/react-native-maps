@@ -1,4 +1,4 @@
-//
+/* //
 //  DummyView.m
 //  AirMapsExplorer
 //
@@ -17,3 +17,4 @@
   return self;
 }
 @end
+*/

@@ -1,4 +1,4 @@
-//
+/* //
 //  RCTConvert+GMSMapViewType.m
 //
 //  Created by Nick Italiano on 10/23/16.
@@ -20,3 +20,4 @@
     }
   ), kGMSTypeTerrain, intValue)
 @end
+*/

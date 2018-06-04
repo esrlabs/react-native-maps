@@ -1,4 +1,4 @@
-//
+/* //
 //  AIRGMSPolyline.m
 //  AirMaps
 //
@@ -9,3 +9,4 @@
 
 @implementation AIRGMSPolyline
 @end
+*/

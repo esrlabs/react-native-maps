@@ -1,4 +1,4 @@
-//
+/* //
 //  AIRGoogleMapManager.m
 //  AirMaps
 //
@@ -447,3 +447,4 @@ RCT_EXPORT_METHOD(setMapBoundaries:(nonnull NSNumber *)reactTag
     [googleMapView didTapPOIWithPlaceID:placeID name:name location:location];
 }
 @end
+*/

@@ -1,4 +1,4 @@
-//
+/* //
 //  AIRGoogleMapURLTile.m
 //  Created by Nick Italiano on 11/5/16.
 //
@@ -32,3 +32,4 @@
   return urls;
 }
 @end
+*/

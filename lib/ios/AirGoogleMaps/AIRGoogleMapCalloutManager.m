@@ -1,4 +1,4 @@
-//
+/* //
 //  AIRGoogleMapCalloutManager.m
 //  AirMaps
 //
@@ -23,3 +23,4 @@ RCT_EXPORT_VIEW_PROPERTY(tooltip, BOOL)
 RCT_EXPORT_VIEW_PROPERTY(onPress, RCTBubblingEventBlock)
 
 @end
+*/

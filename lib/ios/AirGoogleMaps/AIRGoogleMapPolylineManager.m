@@ -1,4 +1,4 @@
-//
+/* //
 //  AIRGoogleMapPolylineManager.m
 //
 //  Created by Nick Italiano on 10/22/16.
@@ -40,3 +40,4 @@ RCT_EXPORT_VIEW_PROPERTY(tappable, BOOL)
 RCT_EXPORT_VIEW_PROPERTY(onPress, RCTBubblingEventBlock)
 
 @end
+*/

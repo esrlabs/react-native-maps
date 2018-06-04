@@ -1,4 +1,4 @@
-//
+/* //
 //  AIRGoogleMapMarkerManager.m
 //  AirMaps
 //
@@ -68,3 +68,4 @@ RCT_EXPORT_METHOD(hideCallout:(nonnull NSNumber *)reactTag)
   }];
 }
 @end
+*/

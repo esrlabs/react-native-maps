@@ -1,4 +1,4 @@
-//
+/* //
 //  AIRGoogleMapMarker.m
 //  AirMaps
 //
@@ -314,3 +314,4 @@ CGRect unionRect(CGRect a, CGRect b) {
 }
 
 @end
+*/

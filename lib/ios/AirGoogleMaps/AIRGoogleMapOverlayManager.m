@@ -1,4 +1,4 @@
-#import "AIRGoogleMapOverlayManager.h"
+/* #import "AIRGoogleMapOverlayManager.h"
 #import "AIRGoogleMapOverlay.h"
 
 @interface AIRGoogleMapOverlayManager()
@@ -20,3 +20,4 @@ RCT_REMAP_VIEW_PROPERTY(bounds, boundsRect, NSArray)
 RCT_REMAP_VIEW_PROPERTY(image, imageSrc, NSString)
 
 @end
+*/

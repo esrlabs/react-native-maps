@@ -1,4 +1,4 @@
-//
+/* //
 //  AIRGoogleMap.m
 //  AirMaps
 //
@@ -533,3 +533,4 @@ id regionAsJSON(MKCoordinateRegion region) {
 }
 
 @end
+*/

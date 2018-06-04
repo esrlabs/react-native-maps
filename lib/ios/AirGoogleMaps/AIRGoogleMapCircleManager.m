@@ -1,4 +1,4 @@
-//
+/* //
 //  AIRGoogleMapCircleManager.m
 //
 //  Created by Nick Italiano on 10/24/16.
@@ -31,3 +31,4 @@ RCT_EXPORT_VIEW_PROPERTY(fillColor, UIColor)
 RCT_EXPORT_VIEW_PROPERTY(zIndex, int)
 
 @end
+*/

@@ -1,4 +1,4 @@
-//
+/* //
 //  AIRGMSMarker.m
 //  AirMaps
 //
@@ -10,3 +10,4 @@
 @implementation AIRGMSMarker
 
 @end
+*/
